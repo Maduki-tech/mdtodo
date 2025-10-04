@@ -1,4 +1,4 @@
-# nvim-plugin-template
+# MdTodo.nvim
 
 > Minimal plugin for Managing Todo Comments in a Markdown file
 
